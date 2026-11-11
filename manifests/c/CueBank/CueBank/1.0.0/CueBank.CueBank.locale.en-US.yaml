@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.28.0.schema.json
+
+PackageIdentifier: CueBank.CueBank
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: CueBank
+PublisherUrl: https://cuebank.github.io/
+PublisherSupportUrl: https://github.com/lbhickman/cuebank/issues
+PackageName: CueBank
+PackageUrl: https://cuebank.github.io/
+License: Proprietary
+ShortDescription: Turn your own multiple-choice practice questions into an exam-style question bank.
+Description: CueBank stores multiple-choice questions from PDFs, practice exams, and text documents in an exam-style question bank. Build custom tests, see explanations after each question or at the end, and see which topics need more review. Your data stays on your computer.
+Moniker: cuebank
+Tags:
+- exam
+- flashcards
+- quiz
+- question-bank
+- study
+ReleaseNotesUrl: https://github.com/lbhickman/cuebank/releases/tag/v1.0.0
+ManifestType: defaultLocale
+ManifestVersion: 1.28.0
